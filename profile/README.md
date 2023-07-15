@@ -1,4 +1,4 @@
-## This is the Meda GitHub repository.
+## This is the MEDA GitHub repository.
 
 MEDA, the Metropolitan Economic Development Organization, is a nonprofit organization based in Minneapolis, Minnesota, whose mission is to help BIPOC entrepeneurs succeed. Visit our website at [meda.net](https://www.meda.net) to learn more about us and apply for our services.
 
